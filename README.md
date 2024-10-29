@@ -52,27 +52,19 @@ Project development was organized as follows:
 
 ---
 
-## Development Effort
-
-- **Requirements**: 6 hours
-- **Design**: 16 hours
-- **Implementation**: 35 hours  
-**Total**: 57 hours
-
----
 
 ## Installation and Usage
 
-1. **Prerequisites**:
-   - Java 8 or higher installed.
-   - A SQL database set up with the required schema for user and match management.
+1. **Prerequisites**: 
+   - Java 8 or higher installed
+   - An SQL database. You can either set up your own or contact janbusson@gmx.de for access to an existing database.
 
-2. **Installation**:
+3. **Installation**:
    - Clone the repository: `git clone https://github.com/username/greendr.git`
    - Open the project in your preferred development environment and configure as needed.
    - Set up the database connection.
 
-3. **Run**:
+4. **Run**:
    - Execute the main class to launch the application.
    - Register as a new user or log in with existing credentials to explore profile management and matchmaking.
 
